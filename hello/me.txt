@@ -1,0 +1,3 @@
+shivam created new repo and edited 
+git remote set-url origin https://github.com/shivam3050/checkingrepo.git
+git push origin main
